@@ -1,0 +1,31 @@
+name: zero_hunger_app
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.5.0 # Replace with the latest version
+  firebase_auth: ^4.5.0 # Replace with the latest version
+  cloud_firestore: 4.17.5 # Replace with the latest version
+  firebase_messaging: ^14.4.0 # Replace with the latest version
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Uncomment and add any assets you want to include
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+

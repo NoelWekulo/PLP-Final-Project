@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164692002382",
+    "project_id": "food-rescue-app-e9f4f",
+    "storage_bucket": "food-rescue-app-e9f4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164692002382:android:feb9872b43e6bb614e651f",
+        "android_client_info": {
+          "package_name": "com.dynamicdevdeveloper.FoodRescueApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd-nAgIOEYvgTseaFlU1ebPxeeXi__bYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
